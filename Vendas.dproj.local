@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/03/30 21:34:56.000.862,=C:\Users\JoseB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/04 13:49:57.000.051,=C:\Users\JoseB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/04 14:56:01.000.830,=C:\Users\JoseB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 13:48:14.000.839,=C:\Users\JoseB\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 14:52:44.000.822,C:\Users\JoseB\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\ProjetoDelphi\uPrincipal.pas</Transaction>
+    <Transaction>2022/05/04 14:52:44.000.822,C:\Users\JoseB\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\ProjetoDelphi\uPrincipal.dfm</Transaction>
+    <Transaction>2022/05/04 14:53:25.000.805,C:\Users\JoseB\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\ProjetoDelphi\Vendas.dproj</Transaction>
+    <Transaction>2022/05/04 15:03:59.000.738,=C:\ProjetoDelphi\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 15:04:55.000.995,C:\ProjetoDelphi\Unit1.pas=C:\ProjetoDelphi\datamodule\uDTMConexao.pas</Transaction>
+    <Transaction>2022/05/04 15:04:55.000.995,C:\ProjetoDelphi\Unit1.dfm=C:\ProjetoDelphi\datamodule\uDTMConexao.dfm</Transaction>
+    <Transaction>2022/05/04 15:43:51.000.458,=C:\ProjetoDelphi\Unit1.pas</Transaction>
+    <Transaction>2022/05/04 15:44:36.000.771,C:\ProjetoDelphi\Unit1.dfm=C:\ProjetoDelphi\heranca\uTelaHeranca.dfm</Transaction>
+    <Transaction>2022/05/04 15:44:36.000.771,C:\ProjetoDelphi\Unit1.pas=C:\ProjetoDelphi\heranca\uTelaHeranca.pas</Transaction>
+    <Transaction>2022/05/10 15:18:42.000.868,=C:\PROJETODELPHI\Unit1.pas</Transaction>
+    <Transaction>2022/05/10 15:19:32.000.996,C:\ProjetoDelphi\Cadastro\uCadCategorias.pas=C:\PROJETODELPHI\Unit1.pas</Transaction>
+    <Transaction>2022/05/10 15:19:32.000.996,C:\ProjetoDelphi\Cadastro\uCadCategorias.dfm=C:\PROJETODELPHI\Unit1.dfm</Transaction>
+    <Transaction>2022/05/10 15:30:04.000.204,=C:\PROJETODELPHI\terceiros\Enter.pas</Transaction>
+    <Transaction>2022/05/11 13:54:38.000.786,=C:\PROJETODELPHI\Unit1.pas</Transaction>
+    <Transaction>2022/05/11 13:54:55.000.377,C:\ProjetoDelphi\heranca\uEnum.pas=C:\PROJETODELPHI\Unit1.pas</Transaction>
+    <Transaction>2022/06/22 20:07:30.000.660,=C:\PROJETODELPHI\Unit1.pas</Transaction>
+    <Transaction>2022/06/22 20:08:13.000.860,C:\ProjetoDelphi\Classes\CCadCategoria.pas=C:\PROJETODELPHI\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

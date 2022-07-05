@@ -1,0 +1,17 @@
+object dtmConexao: TdtmConexao
+  OldCreateOrder = False
+  Height = 410
+  Width = 731
+  object ConexaoDB: TZConnection
+    ControlsCodePage = cCP_UTF16
+    Catalog = ''
+    HostName = '.\SERVERBUSS'
+    Port = 0
+    Database = ''
+    User = ''
+    Password = ''
+    Protocol = 'mssql'
+    Left = 40
+    Top = 40
+  end
+end
